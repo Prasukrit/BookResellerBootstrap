@@ -1,0 +1,24 @@
+body{
+
+}
+.jumbotron{
+    background: url("image/bg.png");
+}
+.box-shadow{
+    -webkit-box-shadow: 0px 0px 6px 0px rgba(50, 50, 50, 0.75);
+    -moz-box-shadow:    0px 0px 6px 0px rgba(50, 50, 50, 0.75);
+    box-shadow:         0px 0px 6px 0px rgba(50, 50, 50, 0.75);
+}
+.box-padding{
+    padding: 20px;
+}
+#about-img img {
+  width: 100px;
+  height: 100px;
+  margin: 10px;
+  float: left;
+  border-radius: 50px;
+}
+#about-text{
+    clear: both;
+}
